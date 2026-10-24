@@ -1,76 +1,35 @@
-Python Lab Practicals
+Python Practical Programs
 
 About the Project
 
-This repository contains my Python lab practical programs. These practicals helped me understand Python modules, searching techniques, lambda functions, and list comprehension.
+This repository contains three Python practical programs demonstrating searching algorithms, lambda functions, list comprehensions, and Python's built-in math and random modules.
 
-Practicals Included
+Programs Included
 
-Practical 1: Math and Random Modules
+1. Linear and Binary Search
 
-Aim: To understand and implement Python's "math" and "random" modules.
+File: "linear_binary_search.py"
 
-Concepts covered:
+- Implements Linear Search to find a name in a list.
+- Implements Binary Search using an alphabetically sorted list.
+- Displays the position of the searched name or a not-found message.
 
-- Square root, power, sine, cosine, and factorial using the "math" module.
-- Generating random numbers.
-- Selecting random elements from a list.
-- Shuffling a list and selecting a random sample.
+2. Lambda Functions and List Operations
 
-File: "Practical_4_Math_and_Random.py"
+File: "lambda_list_operations.py"
 
-Practical 2: Linear Search
+- Calculates squares of numbers using a lambda function.
+- Extracts even numbers using list comprehension.
+- Adds a 10% bonus to employee salaries.
+- Filters salaries greater than 50,000 after the bonus.
 
-Aim: To implement linear search without using a user-defined function.
+3. Math and Random Modules
 
-Concepts covered:
+File: "math_random_modules.py"
 
-- Accepting array elements from the user.
-- Searching for a given element.
-- Displaying the index if the element is found.
-- Displaying a message if the element is not found.
+- Calculates square roots and powers.
+- Calculates sine and cosine values.
+- Finds the factorial of a number.
+- Generates random numbers and selects random list elements.
+- Demonstrates list shuffling and random sampling.
 
-File: "Practical_5a_Linear_Search.py"
-
-Practical 3: Lambda Functions and List Comprehension
-
-Aim: To demonstrate lambda functions and list comprehension in Python.
-
-Concepts covered:
-
-- Using "lambda" with "map()" to calculate squares.
-- Using "lambda" with "filter()" to find even numbers.
-- Creating lists using list comprehension.
-
-File: "Practical_6_Lambda_and_List_Comprehension.py"
-
-Tools Used
-
-- Python 3
-- Programiz Online Python Compiler
-- GitHub
-
-How to Run the Programs
-
-1. Open the required Python file.
-2. Copy the code into a Python compiler.
-3. Run the program.
-4. Enter the required input when prompted.
-
-Repository Contents
-
-- "Practical_4_Math_and_Random.py"
-- "Practical_5a_Linear_Search.py"
-- "Practical_6_Lambda_and_List_Comprehension.py"
-- "Practical_1_Code_and_Output.png"
-- "Practical_2_Code_and_Output.png"
-- "Practical_3_Code_and_Output.png"
-
-Learning Outcomes
-
-Through these practicals, I learned to use Python's built-in modules, perform linear searching, apply lambda functions, and create lists using list comprehension. I also learned how to store and organize program files using GitHub.
-
----
-
-Project: Python Lab Practicals 1, 2, and 3
-Language: Python 3
